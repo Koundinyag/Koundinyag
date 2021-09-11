@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Koundinyag
+- 👋 Hi, I’m @Koundinya
 - 👀 I’m interested in DSA
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on Java
